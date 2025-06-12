@@ -1,0 +1,72 @@
+2025/06/06 12:46:13 - CREATE: Pagamento registrado - Pagamento: R$ 15.0, Método: Dinheiro
+2025/06/06 12:46:54 - CREATE: Cliente cadastrado - CPF: 123456789, Nome: Leonardo
+2025/06/06 12:46:58 - READ: Listagem de clientes solicitada.
+2025/06/06 12:47:15 - UPDATE: Cidade do cliente com CPF 123456789 atualizada.
+2025/06/06 12:47:33 - CREATE: Produto cadastrado - Nome: xtudo, Preço: 20.0
+2025/06/06 12:47:46 - READ: Listagem de produtos solicitada.
+2025/06/06 12:47:57 - READ: Listagem de clientes solicitada.
+2025/06/06 12:48:01 - READ: Listagem de produtos solicitada.
+2025/06/06 12:48:12 - CREATE: Pedido criado para o cliente Leonardo (CPF: 123456789)
+2025/06/06 12:48:31 - CREATE: Pagamento registrado - Pagamento: R$ 15.0, Método: Dinheiro
+2025/06/06 13:43:04 - CREATE: Produto cadastrado - Nome: Lamche, Preço: 34.0
+2025/06/09 14:28:29 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:28:29 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:28:29 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:28:29 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:28:53 - CREATE: Cliente cadastrado - CPF: 52547628880, Nome: Leonardo
+2025/06/09 14:34:02 - CREATE: Produto cadastrado - Nome: Lancheaaaa, Preço: 20.0
+2025/06/09 14:34:41 - CREATE: Pedido criado para o cliente Leonardo (CPF: 52547628880)
+2025/06/09 14:34:42 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:34:57 - CREATE: Pagamento registrado - Pagamento: R$ 40.0, Método: Dinheiro
+2025/06/09 14:35:07 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:35:07 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:35:23 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:35:23 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:35:23 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:35:23 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:35:55 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:35:55 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:40:08 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:40:08 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:40:08 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:40:08 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:41:23 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:41:23 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:19 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:19 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:19 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:19 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:25 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:25 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:39 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:39 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:39 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:39 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:51 - CREATE: Cliente cadastrado - CPF: 12345, Nome: le
+2025/06/09 14:44:55 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:55 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:58 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:58 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:44:58 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:44:58 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:45:33 - CREATE: Cliente cadastrado - CPF: 7654321, Nome: andre
+2025/06/09 14:46:01 - CREATE: Produto cadastrado - Nome: XTudo, Preço: 32.0
+2025/06/09 14:46:09 - CREATE: Produto cadastrado - Nome: Coca, Preço: 12.0
+2025/06/09 14:46:16 - CREATE: Produto cadastrado - Nome: Batata, Preço: 15.0
+2025/06/09 14:46:39 - CREATE: Pedido criado para o cliente le (CPF: 12345)
+2025/06/09 14:46:43 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:47:03 - CREATE: Pagamento registrado - Pagamento: R$ 32.0, Método: Dinheiro
+2025/06/09 14:47:07 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:47:07 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:47:20 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:47:20 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:47:20 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:47:20 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:47:32 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:47:32 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:49:47 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:49:47 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:49:47 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:49:47 - READ: Listagem de pagamentos solicitada.
+2025/06/09 14:49:57 - READ: Listagem de pedidos solicitada.
+2025/06/09 14:49:57 - READ: Listagem de pagamentos solicitada.
